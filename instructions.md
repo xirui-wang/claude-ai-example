@@ -3,8 +3,7 @@
 ## 1. Determine the listing date
 
 Run `date` to get today's date and day of week.
-- Saturday or Sunday → use most recent Friday
-- Monday → use previous Friday
+- Saturday or Friday → do not run
 - Otherwise → use today
 
 ## 2. Fetch arXiv listings
