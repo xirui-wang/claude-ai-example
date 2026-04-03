@@ -2,7 +2,7 @@
 
 ## 1. Determine the listing date
 
-- Run the program every Thursday 9pm PST.
+- If md file is called, run in any case. Otherwise, run the program every Thursday 9pm PST.
 
 ## 2. Collect papers
 
